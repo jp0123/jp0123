@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello! 👋
 
-<!--
-**jp0123/jp0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joseph and I'm a software developer that is driven to build products that serve real and meaningful value for people.
 
-Here are some ideas to get you started:
+I am predominantly a front-end developer, but do have back-end experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I strive to build beautiful and performant applications with great user experiences.
+
+### Technology 💻
+
+I like using TypeScript, React, and Node.
+
+### Contact 📫
+
+The best way to contact me is through email (on my resume) or on [linkedin](https://www.linkedin.com/in/josephpark1/).
