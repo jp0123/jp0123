@@ -12,4 +12,4 @@ I like using TypeScript, React, and Node.
 
 ### Contact 📫
 
-The best way to contact me is through email (on my resume) or on [linkedin](https://www.linkedin.com/in/josephpark1/).
+N/A. 
